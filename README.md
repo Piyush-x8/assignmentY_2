@@ -2,7 +2,7 @@
 # assignment 2
 # my project
 ## descreption -i have lot of things as printset
-# preview - HTML CSS used.
+# preview - HTML CSS used
 
 <!DOCTYPE html>
 <html lang="en">
